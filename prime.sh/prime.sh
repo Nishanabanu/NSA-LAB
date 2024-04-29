@@ -1,5 +1,4 @@
 #prime numbers
-
 if [ $# -ne 2 ]
 then
 echo "syntax is <$0> <no1> <no2> "
