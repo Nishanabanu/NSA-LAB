@@ -1,4 +1,4 @@
-#read 3 no.s and print the largest number
+#read 3 no.s and print the largest numbe
 if [ $# -ne 3 ]
 then
 echo "syntax is $0<no1><no2><no3>"
