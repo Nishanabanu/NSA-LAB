@@ -1,4 +1,4 @@
-#leap yea
+#leap year
 if [ $# -gt 1 ]
 then
 echo "syntax is <$0> [<year>]"
