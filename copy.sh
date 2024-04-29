@@ -1,4 +1,5 @@
 #modify the cp command considering error possibilities
+
 if [ $# -ne 2 ]
 then
 echo "\nSyntax is <$0> <src file name> <tgt file name>"
