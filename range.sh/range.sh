@@ -1,4 +1,4 @@
-#extracting a set of line from set of files
+#extracting a set of line from set of files 
 if [ $# -le 2 ]
 then
 echo "Syntax is <$0> <range> <files....>"
