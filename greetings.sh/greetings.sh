@@ -1,4 +1,5 @@
 #display a nsg to login user with greetings
+
 if [ $# -gt 0]
 then
 echo "syntax is $0"
